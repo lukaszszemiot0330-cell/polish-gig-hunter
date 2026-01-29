@@ -266,3 +266,164 @@
 2026-01-29 22:33:22,241 - INFO - 🔐 Blockchain integrity: ❌
 2026-01-29 22:33:24,686 - INFO - ✅ Raport wysłany e-mailem
 2026-01-29 22:33:24,687 - INFO - 🎉 Polish Gig Hunter 2.0 zakończył cykl sukcesem!
+2026-01-29 22:53:21,586 - INFO - 🌟 Inicjalizacja Polish Gig Hunter 2.0...
+2026-01-29 22:53:21,661 - INFO - 🚀 Uruchamianie Polish Gig Hunter 2.0...
+2026-01-29 22:53:21,661 - INFO - Wyszukiwanie globalne: python developer remote
+2026-01-29 22:53:22,552 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:23,601 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:24,793 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:25,765 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:26,752 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:27,671 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:28,802 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:29,656 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:30,592 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:31,567 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:32,489 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:33,611 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:34,539 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:35,456 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:36,373 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:37,344 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:38,294 - INFO - response: https://www.bing.com/search?q=python+developer+remote&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:38,497 - INFO - Wyszukiwanie globalne: web development project
+2026-01-29 22:53:39,362 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:40,370 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:41,398 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:42,376 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:43,240 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:44,269 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:45,296 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:46,211 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:47,077 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:48,055 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:49,107 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:50,006 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:51,127 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:52,051 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:52,969 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:53,891 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:54,812 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:53:55,733 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:53:56,657 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:53:57,724 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:53:58,628 - INFO - response: https://www.bing.com/search?q=web+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:53:58,678 - INFO - Wyszukiwanie globalne: software development freelance
+2026-01-29 22:53:59,624 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:00,474 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:01,394 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:02,362 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:03,312 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:04,457 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:05,454 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:06,392 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:07,288 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:08,341 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:09,277 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:10,203 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:11,136 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:12,079 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:13,140 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:14,065 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:15,159 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:16,218 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:17,134 - INFO - response: https://www.bing.com/search?q=software+development+freelance&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:17,356 - INFO - Wyszukiwanie globalne: programista zlecenie
+2026-01-29 22:54:18,370 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:19,284 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:20,311 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:21,434 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:22,359 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:23,384 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:24,459 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:25,637 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:26,579 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:27,472 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:28,432 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:29,419 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:30,339 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:31,275 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:32,202 - INFO - response: https://www.bing.com/search?q=programista+zlecenie&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:32,274 - INFO - Wyszukiwanie globalne: developer needed urgent
+2026-01-29 22:54:33,143 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:34,092 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:35,076 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:36,017 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:36,953 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:37,903 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:39,056 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:40,013 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:41,065 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:42,016 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:42,962 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:43,918 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:44,887 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:45,838 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:46,781 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:47,712 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:48,631 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:49,559 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:50,520 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:51,540 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:52,471 - INFO - response: https://www.bing.com/search?q=developer+needed+urgent&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:52,635 - INFO - Wyszukiwanie globalne: api development project
+2026-01-29 22:54:53,519 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:54,515 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:54:55,395 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:54:56,362 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:54:57,519 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:54:58,415 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:54:59,472 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:00,409 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:01,374 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:02,299 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:03,362 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:04,402 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:05,477 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:06,596 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:07,542 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:08,552 - INFO - response: https://www.bing.com/search?q=api+development+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:08,752 - INFO - Wyszukiwanie globalne: fullstack developer contract
+2026-01-29 22:55:09,695 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:10,591 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:11,521 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:12,514 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:13,462 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:14,393 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:15,412 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:16,323 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:17,252 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:18,162 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:19,070 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:20,009 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:20,941 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:21,879 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:22,985 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:23,902 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:24,852 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:25,747 - INFO - response: https://www.bing.com/search?q=fullstack+developer+contract&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:25,892 - INFO - Wyszukiwanie globalne: javascript react project
+2026-01-29 22:55:26,771 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:27,790 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:28,920 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:29,843 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:30,859 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:31,803 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:32,708 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:33,639 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:34,577 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:35,578 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:36,496 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:37,413 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:38,373 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:39,392 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22 200
+2026-01-29 22:55:40,289 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=11&FORM=PERE 200
+2026-01-29 22:55:41,402 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=21&FORM=PERE1 200
+2026-01-29 22:55:42,334 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=31&FORM=PERE2 200
+2026-01-29 22:55:43,256 - INFO - response: https://www.bing.com/search?q=javascript+react+project&filters=ex1%3A%22ez2%22&first=41&FORM=PERE3 200
+2026-01-29 22:55:43,265 - INFO - 🔍 Znaleziono 210 zleceń globalnie
+2026-01-29 22:55:44,802 - INFO - 🧠 AI wybrało 0 zleceń
+2026-01-29 22:55:44,802 - INFO - 🤖 Złożono 0 auto-aplikacji
+2026-01-29 22:55:44,802 - INFO - 🔐 Blockchain integrity: ❌
+2026-01-29 22:55:47,645 - INFO - ✅ Raport wysłany e-mailem
+2026-01-29 22:55:47,648 - INFO - 🎉 Polish Gig Hunter 2.0 zakończył cykl sukcesem!

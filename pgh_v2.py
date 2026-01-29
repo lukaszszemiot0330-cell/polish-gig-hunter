@@ -16,18 +16,22 @@ import time
 import hashlib
 import logging
 import sqlite3
-import requests
-from datetime import datetime, timedelta
-from typing import List, Dict, Tuple, Optional
+from datetime import datetime
+from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
 from abc import ABC, abstractmethod
 import statistics
-import asyncio
 from concurrent.futures import ThreadPoolExecutor
 
-import numpy as np
-import pandas as pd
-from bs4 import BeautifulSoup
+try:
+    import numpy as np
+    import pandas as pd
+    from bs4 import BeautifulSoup
+except ImportError:
+    np = None
+    pd = None
+    BeautifulSoup = None
+
 from duckduckgo_search import DDGS
 from fake_useragent import UserAgent
 
@@ -56,6 +60,7 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
 logger = logging.getLogger(__name__)
 
 @dataclass
