@@ -1,8 +1,8 @@
-# 🔍 Polish Gig Hunter
+# � Polish Gig Hunter 2.0 - AI Autonomous Platform
 
-**Automatyczny system wyszukiwania polskich zleceń programistycznych i biurowych**
+**Myśląca i ucząca się platforma AI do pozyskiwania zleceń 24/7**
 
-Polish Gig Hunter to kompletny ekosystem aplikacji, który automatycznie przeszukuje internet w poszukiwaniu płatnych zleceń na polskim rynku. System działa 24/7 w chmurze (GitHub Actions) całkowicie za darmo i powiadamia o znaleziskach via e-mail.
+Polish Gig Hunter 2.0 to rewolucyjny system AI który autonomicznie przeszukuje globalny rynek zleceń, uczy się z doświadczenia i maksymalizuje Twoje zarobki. Działa 24/7 w chmurze GitHub Actions całkowicie za darmo.
 
 ---
 
@@ -206,3 +206,7 @@ System testowany na polskich forach i platformach:
 **Made with ❤️ for Polish Freelancers**
 
 *Automatyzacja poszukiwania zleceń - więcej czasu na pracę, mniej na szukanie!*
+=======
+# polish-gig-hunter
+Polish Gig Hunter 2.0 - AI Autonomous Platform
+>>>>>>> eace5217d5e4cceb454e1b96073c2031c6b8fb02
