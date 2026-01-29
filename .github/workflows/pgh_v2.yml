@@ -1,0 +1,50 @@
+name: Polish Gig Hunter 2.0 - AI Autonomous Platform
+
+# Uruchamiany co 2 godziny dla maksymalnej efektywności
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Co 2 godziny
+  # Ręczne uruchomienie dla testów
+  workflow_dispatch:
+
+jobs:
+  ai-gig-hunter:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install numpy pandas
+        
+    - name: Run Polish Gig Hunter 2.0 AI
+      env:
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+        EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+      run: |
+        echo "🚀 Uruchamianie Polish Gig Hunter 2.0..."
+        python pgh_v2.py
+        
+    - name: Upload database artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: gighunter-database
+        path: gighunter_v2.db
+        retention-days: 30
+        
+    - name: Log completion
+      run: |
+        echo "✅ Polish Gig Hunter 2.0 zakończył cykl - $(date)"
+        echo "🤖 AI znalazł i przeanalizował zlecenia globalnie"
+        echo "🔐 Blockchain zabezpieczył transakcje"
+        echo "📧 Raport wysłany e-mailem"

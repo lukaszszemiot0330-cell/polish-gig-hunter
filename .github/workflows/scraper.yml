@@ -1,0 +1,38 @@
+name: Polish Gig Hunter - Auto Scraper
+
+# Uruchamiany co 4 godziny (0 */4 * * *)
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  # Ręczne uruchomienie dla testów
+  workflow_dispatch:
+
+jobs:
+  scrape-gigs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run Polish Gig Hunter
+      env:
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+        EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+      run: |
+        python bot.py
+        
+    - name: Log completion
+      run: |
+        echo "✅ Polish Gig Hunter zakończył pracę - $(date)"
